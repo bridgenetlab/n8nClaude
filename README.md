@@ -26,6 +26,8 @@ uses domain-specific skills to design, build, validate, and test workflows.
 
 ## Setup
 
+### 0. Create a n8n_workflow Folder
+
 ### 1. Clone the Repository
 
 ```bash
