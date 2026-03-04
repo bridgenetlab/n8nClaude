@@ -18,7 +18,7 @@ uses domain-specific skills to design, build, validate, and test workflows.
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) v18 or later (includes `npx`)
-- [Claude Code](https://claude.ai/code) CLI installed
+- Claude Code Extension in VS Code
 - An n8n instance (self-hosted or [n8n Cloud](https://app.n8n.cloud))
 - An n8n API key (see below)
 
@@ -26,13 +26,13 @@ uses domain-specific skills to design, build, validate, and test workflows.
 
 ## Setup
 
-### 0. Create a n8n_workflow Folder
+### 0. Create a Folder
 
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/bridgenetlab/n8nClaude.git)
-cd n8n_workflow
+cd <Your Folder Path>
+git clone https://github.com/bridgenetlab/n8nClaude.git
 ```
 
 ### 2. Get Your n8n API Key
@@ -98,11 +98,7 @@ This installs the following 7 skills to `~/.claude/skills/`:
 
 Skills activate automatically — no commands needed.
 
-### 5. Open the Project in Claude Code
-
-```bash
-claude .
-```
+### 5. Open the Project in Claude Code (Visual Studio Code)
 
 Claude Code will automatically:
 - Read `CLAUDE.md` and load the workflow architect instructions
