@@ -187,7 +187,7 @@ I have a workflow called "Sync contacts" — review it and add proper error hand
 - Run `n8n_health_check` inside a Claude Code session to diagnose
 
 **Skills not activating**
-- Verify skill folders are in `~/.claude/skills/` (each folder should contain a `skill.md`)
+- Verify skill folders are in `LocalDisk/Users/<Your User>/.claude/skills/` (each folder should contain a `skill.md`)
 - Restart Claude Code after installation
 
 **`npx n8n-mcp` slow to start**
