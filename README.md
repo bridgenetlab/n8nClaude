@@ -67,6 +67,11 @@ Edit `.mcp.json` and replace the placeholder values with your own:
 > The `N8N_API_URL` is the root URL of your n8n instance (e.g. `http://localhost:5678` for
 > self-hosted or `https://yourname.app.n8n.cloud` for n8n Cloud).
 
+### 4. Install n8n-mcp
+```bash
+npx n8n-mcp
+```
+
 ### 4. Install n8n Skills
 
 Skills inject expert n8n knowledge into Claude's context automatically. Run once per machine:
