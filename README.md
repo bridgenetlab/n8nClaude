@@ -187,7 +187,7 @@ Claude needs an API key to connect to your n8n instance.
 ### Step 1: Clone This Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bridgenetlab/n8nClaude.git
 cd n8n_workflow
 ```
 
