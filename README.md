@@ -31,7 +31,7 @@ uses domain-specific skills to design, build, validate, and test workflows.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bridgenetlab/n8nClaude
+git clone (https://github.com/bridgenetlab/n8nClaude.git)
 cd n8n_workflow
 ```
 
