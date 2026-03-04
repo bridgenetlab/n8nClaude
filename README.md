@@ -29,7 +29,7 @@ uses domain-specific skills to design, build, validate, and test workflows.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/bridgenetlab/n8nClaude)
 cd n8n_workflow
 ```
 
